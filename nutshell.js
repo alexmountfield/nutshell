@@ -1928,8 +1928,8 @@ Bubble: the box that expands below an expandable, containing a Nutshell Section
     .nutshell-bubble-overflow:hover > .nutshell-bubble-overflow-embed-button:hover{
         opacity: 1.0;
     }
-    /* NO EMBEDDING IF IT'S A PREVIEW INSIDE EMBED MODAL */
-    .nutshell-embed-modal .nutshell-bubble-overflow-embed-button{
+    /* NO EMBEDDING PLEASE*/
+    .nutshell-bubble-overflow-embed-button{
         display:none;
     }
 
